@@ -1,16 +1,28 @@
-## Hi there 👋
+# Journey to Become an AI Developer
+안녕하세요! AI 개발자를 목표로 매일 꾸준히 공부하고 기록하는 공간입니다!
 
-<!--
-**SeongTrueLife/SeongTrueLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### TIL(Today I Learned)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2025 - 09 - 04 (목)
+- **python study** : 오늘 배운것, f 포메이션. print(f"{score_sum = }")
+  - 새로 알게된 것 :
+    -f 포메이션의 의미는 f"~~" 에 있는 "~" 부분에 문자열을 출력하는데 그 사이 {} 중괄호 안에 값을 미리 입력해둔 변수로 출력가능하다.
+    -f 포메이션에서 print(f"{score_sum = }") 처럼 중괄호 안에 등호 = 기호를 넣을 수 있고, 이때 의미는 중괄호 안에 변수와 등호, 그리고 변수에 할당된 값을 출력하는 것이다.
+    - += 이거 말고도 *= , /= 이런것 등등도 가능하다.
+
+-**AI를 위한 수학공부**: 오늘배운것, 기초대수학(Basic Algebra) 첫부분 시작
+ - 새로 알게된 것: 
+   -대수학의 특징 : Commutative Property(교환법칙), Associative Property(결합법칙), Distributive Property(분배법칙)
+    - comutative property 등은 향후 행렬, 벡터 메트릭스등 여러 분야에서 계속 등장하니 개념 잘 알자.(단순히 순서 바꿔서 계산 가능하다 이상의 의미 있음.)
+   -Identities and Inverses : 항등원과 역원
+    - Identities 는 어떤 값과 어떤 연산을 했을때, 원래의 값과 동일하게 만드는 값.
+    - Inverses 는 어떤값과 어떤 연산을 한 결과, Identities 가 나오는 값.
+    - 덧셈의 Identities 는 0, Inverses 는 -a
+    - 곱셈의 Identities 는 1, Inverses 는 1/a (단, a != 0)
+    - 공부하면서 든 생각 : 행렬에서 단위행렬은 Identities 가 아닐까란, 그리고 역행렬은 Inverses가 아닐까란 생각이듬.
+
+-**코딩테스트 연습**
+ - 프로그래머스 레벨 0 단계 10문제.
+     
