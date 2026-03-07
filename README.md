@@ -1,39 +1,45 @@
-<div align="center">
-  <h1>👋 안녕하세요! 도메인 지식을 AI로 구현하는 엔지니어, 성창훈입니다.</h1>
-  <h3>"상표법 법리를 RAG + 앙상블 모델로 구현해 침해 탐지 Recall 0.92를 달성했습니다."</h3>
-</div>
+## 🧑‍💻 Profile
 
-<div align="center">
-  <a href="mailto:sch629000@gmail.com"><img src="https://img.shields.io/badge/Email-sch629000@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/SeongTrueLife"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chang-hun-seong-aa45b938a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-</div>
+**성창훈 (@SeongTrueLife)**
+지식재산권(IP) 도메인 지식과 공학적 사고를 바탕으로 실용적인 AI 모델을 설계하는 AI 엔지니어입니다.
 
-<br>
+## 👋 About
 
-## 👨‍💻 About Me
+특허법 및 지식재산권에 대한 깊은 이해와 공학적 베이스(화학공학/물리학)를 바탕으로, 
+복잡한 비즈니스 문제를 해결하는 실용적인 AI 솔루션을 설계하고 개발합니다. 
+단순히 모델을 가져다 쓰는 것을 넘어, 원리를 이해하고 최적의 아키텍처를 고민하는 것을 선호합니다.
 
-> **"성능 수치가 납득될 때까지 파고들며, 비즈니스 관점에서 쓸모 있는 AI를 만듭니다."**
+## 🧠 Tech Stack
 
-- ⚖️ **도메인 융합 역량:** 10년간의 변리사 수험 과정에서 쌓은 지식재산권 도메인 지식과 논리적 분석력을 AI 모델 설계에 직접 접목합니다.
-- ⚙️ **공학적 사고:** 화학공학(전공)과 물리학(부전공)에서 익힌 구조적이고 공학적인 사고방식으로 데이터와 모델의 근본적인 문제를 파악하고 해결합니다.
-- 📈 **집요한 성능 개선:** 결과에 타협하지 않습니다. 원인을 끝까지 분석하여 크롭 모델의 Recall을 **0.36에서 0.92로**, 앙상블 모델의 Accuracy를 **0.74에서 0.81로** 끌어올렸습니다.
-- 💡 **비즈니스 관점:** 단순한 기술 구현을 넘어, 소비자 경험과 비즈니스 관점에서 "이 기능이 실제로 쓸모 있는가"를 최우선으로 고민합니다.
+* **Language:** Python
+* **AI / Vision:** YOLOv11, SAM (Segment Anything Model)
+* **LLM / NLP:** RAG, LangGraph, Prompt Engineering
+* **LLM API:** OpenAI GPT, Google Gemini
+* **Web & Backend:** FastAPI, Django, React Native
+* **Cloud & Tools:** Microsoft Azure (Azure 900 인증), Git, GitHub, Notion
+* **Data:** JSON 전처리 자동화, 커스텀 데이터셋 구축, 메타데이터 설계
 
-<br>
+## 🔥 Projects
 
-## 🛠 Tech Stack
+* **상표권 침해 모니터링 AI 시스템** (PM & Model) [2025.01 ~ 2026.02]
+    * 다중 에이전트(LangGraph)를 오케스트레이션하여 논리적 노드를 구성한 앙상블 모델 설계
+    * YOLOv11 기반 객체 인식 및 과적합 방지를 위한 훈련 로그 분석, 모델 최적화
+* **꿀단지 (Honey Pot)** (RAG PipeLine) [2025.12 ~ 2026.01]
+    * 사내 커뮤니케이션 데이터를 분석하여 SOP 및 지식 기반을 자동 업데이트하는 시스템 구축
 
-### 🔹 Language & Vision
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=YOLO&logoColor=black"/> <img src="https://img.shields.io/badge/SAM (Segment Anything)-4285F4?style=flat-square&logo=Google&logoColor=white"/> 
+## 📖 Education
 
-### 🔹 LLM & NLP
-<img src="https://img.shields.io/badge/RAG-FF9900?style=flat-square&logo=Amazon&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=Chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt Engineering-FF4F8B?style=flat-square&logo=OpenAI&logoColor=white"/>
+* Microsoft AI School 양성 과정 [2025.09 ~ 2026.02]
+* 인하 대학교 화학공학 전공 / 물리학 부전공
 
-### 🔹 LLM API & Cloud
-<img src="https://img.shields.io/badge/OpenAI GPT-412991?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=Google&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Azure-0089D6?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
+## 🏆 Awards & Activities
 
-### 🔹 Data & Collaboration
-<img src="https://img.shields.io/badge/JSON Preprocessing-000000?style=flat-square&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+* **1위 (우승):** MS AI School 1차 프로젝트 (Pill-Buddy: 시각장애인용 복약 식별 앱) [2025.11]
+* **2위 (우수상):** MS AI School 3차 프로젝트(TIP : 상표권 침해 모니터링 AI 시스템) [2026.02]
+* **출품:** Google DeepMind 'Vibe Code with Gemini 3 Pro' 해커톤 교육 트랙 (The Missing Page - 시스템 아키텍처 설계) [2025.12]
 
-<br>
+## 📡 Links
+
+* **GitHub:** https://github.com/SeongTrueLife
+* **LinkedIn:** https://www.linkedin.com/in/chang-hun-seong-aa45b938a/
+* **Email:** sch629000@gmail.com
