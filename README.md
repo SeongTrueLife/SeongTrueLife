@@ -66,5 +66,4 @@ AI 프로젝트 수행 경험을 결합해
 
 ## 📡 Links
 * **GitHub:** https://github.com/SeongTrueLife
-* **LinkedIn:** https://www.linkedin.com/in/chang-hun-seong-aa45b938a/
 * **Email:** sch629000@gmail.com
