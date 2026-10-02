@@ -1,5 +1,5 @@
 ## 👤 Profile
-**성창훈 (Sung Changhoon) · @SeongTrueLife**
+**성창훈 (Sung Changhun) · @SeongTrueLife**
  
 화학공학·물리학 전공의 기술 기반, 지식재산권 법리 지식, AI 개발 경험을 바탕으로
 기술과 권리, 산업 현장을 연결하는 일을 해왔습니다.
